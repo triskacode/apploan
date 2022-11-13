@@ -1,0 +1,15 @@
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/triskacode/loan-apps-auth-application.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/triskacode/loan-apps-user-application.git
+[submodule "account-service"]
+	path = account-service
+	url = https://github.com/triskacode/loan-apps-account-application.git
+[submodule "loan-service"]
+	path = loan-service
+	url = https://github.com/triskacode/loan-apps-loan-application.git
+[submodule "frontend-application"]
+	path = frontend-application
+	url = https://github.com/triskacode/loan-apps-frontend-application.git
