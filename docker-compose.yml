@@ -17,7 +17,6 @@ services:
       - "5001:4000"
       - "10000"
     environment:
-      - NODE_ENV=development
       - HTTP_PORT=4000
       - MICROSERVICE_PORT=10000
       - USER_SERVICE_HOST=athena
@@ -29,7 +28,6 @@ services:
       - "5002:4001"
       - "10001"
     environment:
-      - NODE_ENV=development
       - HTTP_PORT=4001
       - MICROSERVICE_PORT=10001
       - AUTH_SERVICE_HOST=achilles
@@ -45,7 +43,6 @@ services:
       - "5003:4002"
       - "10002"
     environment:
-      - NODE_ENV=development
       - HTTP_PORT=4002
       - MICROSERVICE_PORT=10002
       - AUTH_SERVICE_HOST=achilles
@@ -61,7 +58,6 @@ services:
       - "5004:4003"
       - "10003"
     environment:
-      - NODE_ENV=development
       - HTTP_PORT=4003
       - MICROSERVICE_PORT=10003
       - AUTH_SERVICE_HOST=achilles
