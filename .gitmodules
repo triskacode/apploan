@@ -1,15 +1,15 @@
-[submodule "auth-service"]
-	path = auth-service
-	url = https://github.com/triskacode/loan-apps-auth-application.git
-[submodule "user-service"]
-	path = user-service
-	url = https://github.com/triskacode/loan-apps-user-application.git
-[submodule "account-service"]
-	path = account-service
-	url = https://github.com/triskacode/loan-apps-account-application.git
-[submodule "loan-service"]
-	path = loan-service
-	url = https://github.com/triskacode/loan-apps-loan-application.git
-[submodule "frontend-application"]
-	path = frontend-application
-	url = https://github.com/triskacode/loan-apps-frontend-application.git
+[submodule "authservice-apploan-nestjs"]
+	path = authservice-apploan-nestjs
+	url = https://github.com/triskacode/authservice-apploan-nestjs.git
+[submodule "userservice-apploan-nestjs"]
+	path = userservice-apploan-nestjs
+	url = https://github.com/triskacode/userservice-apploan-nestjs.git
+[submodule "accountservice-apploan-nestjs"]
+	path = accountservice-apploan-nestjs
+	url = https://github.com/triskacode/accountservice-apploan-nestjs.git
+[submodule "loanservice-apploan-nestjs"]
+	path = loanservice-apploan-nestjs
+	url = https://github.com/triskacode/loanservice-apploan-nestjs.git
+[submodule "apploan-next"]
+	path = apploan-next
+	url = https://github.com/triskacode/apploan-next.git
